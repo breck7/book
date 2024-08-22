@@ -7,3 +7,4 @@ homeButton
 viewSourceButton
 mediumColumns 1
 printTitle
+viewSourceBaseUrl https://github.com/breck7/parsersExplained/blob/main/
