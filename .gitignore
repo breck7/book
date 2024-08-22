@@ -1,0 +1,4 @@
+*.html
+*.txt
+feed.xml
+.DS_Store
