@@ -3,5 +3,22 @@ title Parsers Explained
 
 # A book about the Parsers Programming Language
 
+br 1
+
+Public Domain Repo | Early Source Repo
+ center
+ https://github.com/breck7/parsersExplained Public Domain Repo
+ https://github.com/breck7/parsersExplainedES Early Source Repo
+
+br 2
+
+<center>
 import stripeButton.scroll
+</center>
 permalink index.html
+
+endColumns
+
+br 2
+
+scrollVersionLink
