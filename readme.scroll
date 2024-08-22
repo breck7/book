@@ -3,4 +3,5 @@ title Parsers Explained
 
 # A book about the Parsers Programming Language
 
-
+import stripeButton.scroll
+permalink index.html
