@@ -7,7 +7,6 @@
     "build": "scroll build",
     "format": "scroll format",
     "test": "scroll test",
-    "updatePublic": "./updatePublic.sh",
     "pushPublic": "git push public public"
   },
   "author": "Breck Yunits",

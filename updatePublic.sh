@@ -1,1 +1,0 @@
-git checkout public && git cherry-pick $(git rev-list --since="30 days ago" --reverse main ^public); git checkout main
