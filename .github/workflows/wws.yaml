@@ -7,6 +7,8 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    # Only run on the public repo
+    if: github.repository == 'breck7/parsersExplained'
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
