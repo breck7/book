@@ -1,1 +1,1 @@
-git checkout public && git cherry-pick $(git log --since="365 days ago" --format="%H" --reverse main) && git checkout main
+git checkout public && git cherry-pick $(git rev-list --reverse --max-count=$(git rev-list --count public..$(git rev-list -n 1 --before="180 days ago" main)) public..main)
