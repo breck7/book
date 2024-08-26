@@ -3,7 +3,7 @@ name: Build and Deploy Scroll
 on:
   push:
     branches:
-      - main
+      - public
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
