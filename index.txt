@@ -8,4 +8,7 @@ Public Domain Repo | Early Source Repo
  https://github.com/breck7/parsersExplained Public Domain Repo
  https://github.com/breck7/parsersExplainedES Early Source Repo
 
-Built with Scroll v121.0.1
+Corporations & Governments: book a 1 day in person Scroll workshop
+ https://buy.stripe.com/cN24k2er73Up5QkfZj book a 1 day in person Scroll workshop
+
+Built with Scroll v123.0.0

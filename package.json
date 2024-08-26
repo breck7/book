@@ -1,0 +1,16 @@
+{
+  "name": "parsersexplained",
+  "version": "0.1.0",
+  "description": "Parsers Explained Book",
+  "main": "index.js",
+  "scripts": {
+    "build": "scroll build",
+    "format": "scroll format",
+    "test": "scroll test",
+    "pushPublic": "git push public public"
+  },
+  "author": "Breck Yunits",
+  "dependencies": {
+    "scroll-cli": "^121.0.1"
+  }
+}
