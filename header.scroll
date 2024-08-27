@@ -8,3 +8,4 @@ viewSourceButton
 mediumColumns 1
 printTitle
 viewSourceBaseUrl https://github.com/breck7/parsersExplained/blob/main/
+css body { font-family:"Gill Sans", "Bitstream Vera Sans", sans-serif;}
