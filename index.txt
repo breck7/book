@@ -1,17 +1,17 @@
-Parsers Explained
-=================
+A New Way to Program
+====================
 
-A book about the Parsers Programming Language
-=============================================
+Particle Notation, Scroll, and the Parsers Programming Language Explained
+=========================================================================
 
 Public Domain Repo | Early Source Repo
- https://github.com/breck7/parsersExplained Public Domain Repo
- https://github.com/breck7/parsersExplainedES Early Source Repo
+ https://github.com/breck7/book Public Domain Repo
+ https://github.com/breck7/bookES Early Source Repo
 
 Download preview
- /parsersPreview.pdf Download preview
+ /preview.pdf Download preview
 
 Corporations & Governments: book a 1 day in person Parsers workshop
  https://buy.stripe.com/cN24k2er73Up5QkfZj book a 1 day in person Parsers workshop
 
-Built with Scroll v123.3.0
+Built with Scroll v125.0.1

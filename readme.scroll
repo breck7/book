@@ -1,19 +1,19 @@
 import header.scroll
-title Parsers Explained
+title A New Way to Program
 
-# A book about the Parsers Programming Language
+# Particle Notation, Scroll, and the Parsers Programming Language Explained
 
 br 1
 
 Public Domain Repo | Early Source Repo
  center
- https://github.com/breck7/parsersExplained Public Domain Repo
- https://github.com/breck7/parsersExplainedES Early Source Repo
+ https://github.com/breck7/book Public Domain Repo
+ https://github.com/breck7/bookES Early Source Repo
 
 br 2
 
 Download preview
- link parsersPreview.pdf
+ link preview.pdf
  center
 
 br 2
