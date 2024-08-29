@@ -4,9 +4,11 @@ A New Way to Program
 Particle Notation, Scroll, and the Parsers Programming Language Explained
 =========================================================================
 
-Public Domain Repo | Early Source Repo
- https://github.com/breck7/book Public Domain Repo
- https://github.com/breck7/bookES Early Source Repo
+This book will be released in full to the public domain repo.
+ https://github.com/breck7/book public domain repo
+
+For now, it's available to people who purchase access to the early source repo.
+ https://github.com/breck7/bookES early source repo
 
 Download preview
  /preview.pdf Download preview
