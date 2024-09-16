@@ -7,5 +7,5 @@ homeButton
 viewSourceButton
 mediumColumns 1
 printTitle
-viewSourceBaseUrl https://github.com/breck7/book/blob/main/
+viewSourceBaseUrl https://github.com/breck7/book/blob/public/
 css body { font-family:"Gill Sans", "Bitstream Vera Sans", sans-serif;}
