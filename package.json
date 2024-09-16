@@ -1,7 +1,7 @@
 {
   "name": "parsersexplained",
   "version": "0.1.0",
-  "description": "Parsers Explained Book",
+  "description": "A New Way to Program. Particles, Parsers, and Scroll Explained",
   "main": "index.js",
   "scripts": {
     "build": "scroll build",
@@ -11,6 +11,6 @@
   },
   "author": "Breck Yunits",
   "dependencies": {
-    "scroll-cli": "^121.0.1"
+    "scroll-cli": "^133.0.0"
   }
 }
