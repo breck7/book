@@ -1,19 +1,14 @@
 A New Way to Program
 ====================
 
-Particle Notation, Scroll, and the Parsers Programming Language Explained
-=========================================================================
+Particles, Parsers, and Scroll Explained
+========================================
 
-This book will be released in full to the public domain repo.
- https://github.com/breck7/book public domain repo
+Public Domain Repo | Early Source Repo
+ https://github.com/breck7/book Public Domain Repo
+ https://github.com/breck7/bookES Early Source Repo
 
-For now, it's available to people who purchase access to the early source repo.
- https://github.com/breck7/bookES early source repo
+Corporations & Governments: book a 1 day in person PPS workshop
+ https://buy.stripe.com/cN24k2er73Up5QkfZj book a 1 day in person PPS workshop
 
-Download preview
- /preview.pdf Download preview
-
-Corporations & Governments: book a 1 day in person Parsers workshop
- https://buy.stripe.com/cN24k2er73Up5QkfZj book a 1 day in person Parsers workshop
-
-Built with Scroll v125.0.1
+Built with Scroll v133.0.0
