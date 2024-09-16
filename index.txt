@@ -8,6 +8,9 @@ Public Domain Repo | Early Source Repo
  https://github.com/breck7/book Public Domain Repo
  https://github.com/breck7/bookES Early Source Repo
 
+Download preview
+ /preview.pdf Download preview
+
 Corporations & Governments: book a 1 day in person PPS workshop
  https://buy.stripe.com/cN24k2er73Up5QkfZj book a 1 day in person PPS workshop
 
