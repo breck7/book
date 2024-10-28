@@ -19,7 +19,9 @@ Download preview
 br 2
 
 center
-stripeButton.scroll
+button Buy now
+ https://commerce.coinbase.com/checkout/076d5670-9e8e-4e9c-842f-7ddd5d59f77e
+// stripeButton.scroll
 
 permalink index.html
 
