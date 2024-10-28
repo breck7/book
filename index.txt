@@ -11,7 +11,10 @@ Public Domain Repo | Early Source Repo
 Download preview
  /preview.pdf Download preview
 
+Buy now
+ https://commerce.coinbase.com/checkout/076d5670-9e8e-4e9c-842f-7ddd5d59f77e Buy now
+
 Corporations & Governments: book a 1 day in person PPS workshop
  https://buy.stripe.com/cN24k2er73Up5QkfZj book a 1 day in person PPS workshop
 
-Built with Scroll v133.0.0
+Built with Scroll v145.8.0

@@ -2,10 +2,10 @@ importOnly
 metaTags
 buildTxt
 buildHtml
-gazetteCss
+theme gazette
 homeButton
-viewSourceButton
+editButton
 mediumColumns 1
 printTitle
-viewSourceBaseUrl https://github.com/breck7/book/blob/public/
+editBaseUrl https://github.com/breck7/book/blob/public/
 css body { font-family:"Gill Sans", "Bitstream Vera Sans", sans-serif;}
